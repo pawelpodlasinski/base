@@ -1,0 +1,9 @@
+### JetBrains template
+.idea/*
+
+### Cache, session files and logs
+var/cache/*
+var/logs/*
+
+### Composer vendors
+vendors
